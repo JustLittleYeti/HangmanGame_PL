@@ -76,4 +76,4 @@ while True:
         wait(2)
         #break
     else:
-        print ("Please, provide correct answer")
+        print ("A co to? Wprowadź poprawne dane")
